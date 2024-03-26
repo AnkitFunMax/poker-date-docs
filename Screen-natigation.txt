@@ -1,0 +1,5 @@
+Module should be able to open Additively.
+	- Meaning these type of modules will not close/hide the currently opened modules, and will be displayed on top of what ever module is opened at the time. Just like popups.
+Module-Tab-Handling: Tabs for the main options on the top of the home screen.
+	- Current Navigation should be suffecient for the Module navigation.
+	- All the modules should be responsible for the management for their own components.
